@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/arwan/Desktop/youtube/android/GithubUserApp/app/src/main/res/drawable/search_background.xml" value="0.2125" />
+        <entry key="..\:/Users/arwan/Desktop/youtube/android/GithubUserApp/app/src/main/res/layout/activity_main.xml" value="0.1716485507246377" />
+        <entry key="..\:/Users/arwan/Desktop/youtube/android/GithubUserApp/app/src/main/res/layout/fragment_detail.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/arwan/Desktop/youtube/android/GithubUserApp/app/src/main/res/layout/fragment_home.xml" value="0.18857142857142858" />
+        <entry key="..\:/Users/arwan/Desktop/youtube/android/GithubUserApp/app/src/main/res/layout/item_user.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/arwan/Desktop/youtube/android/GithubUserApp/app/src/main/res/menu/main_menu.xml" value="0.2203125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
